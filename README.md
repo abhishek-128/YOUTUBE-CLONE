@@ -1,8 +1,15 @@
 # YOUTUBE-CLONE
-<h3>YOUTUBE clone made using HTML, CSS<h3></h3>
-<!-- <p align="center">
-  <img src="YouTube.com_CLONE.jpg">
-</p> -->
-![](YouTube.com_CLONE.jpg)
-<h4>References: <h4>
+### INTRODUCTION:
+<p>
+This is a clone of Youtube.com.
+It reflects my Front-end skills implemented on this project. <br>
+This replica has been produced as an exercise to enhance my HTML, CSS skills.<br>
+Please have a look at the final piece attached below compared to the original piece refrenced in the last section. 
+</p>
+<hr>
+<p align="left">
+  <img src="YouTube.com_CLONE.jpg" height="600">
+</p>
+<hr>
+### CITATIONS:
 <p>https://www.youtube.com/watch?v=G3e-cpL7ofc&t=10s&ab_channel=SuperSimpleDev</p>
