@@ -1,4 +1,4 @@
-# YOUTUBE-CLONE
+# Youtube.com CLONE
 ### INTRODUCTION:
 <p>
 This is a clone of Youtube.com.
@@ -13,4 +13,4 @@ Please have a look at the final piece attached below compared to the original pi
 <hr>
 
 ### CITATIONS:
-<p>https://www.youtube.com/watch?v=G3e-cpL7ofc&t=10s&ab_channel=SuperSimpleDev</p>
+<a href="https://www.youtube.com/watch?v=G3e-cpL7ofc&t=10s&ab_channel=SuperSimpleDev" target="_blank"></a>
