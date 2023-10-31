@@ -8,7 +8,7 @@ Please have a look at the final piece attached below compared to the original pi
 </p>
 <hr>
 <p align="left">
-  <img src="YouTube.com_CLONE.jpg">
+  <img src="IMAGES/YouTube.com_CLONE.jpg">
 </p>
 <hr>
 
