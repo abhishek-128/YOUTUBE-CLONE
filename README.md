@@ -3,6 +3,6 @@
 <p align="center">
   <img src="FINAL_DISPLAY.jpg">
 </p>
-![images](/FINAL_DISPLAY.jpg)
+![images](IMAGES/channel-icons/channel-1.jpeg)
 <h4>References: <h4>
 <p>https://www.youtube.com/watch?v=G3e-cpL7ofc&t=10s&ab_channel=SuperSimpleDev</p>
